@@ -1,0 +1,14 @@
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\bin\Debug\net6.0\예시.exe
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\bin\Debug\net6.0\예시.deps.json
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\bin\Debug\net6.0\예시.runtimeconfig.json
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\bin\Debug\net6.0\예시.dll
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\bin\Debug\net6.0\예시.pdb
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.AssemblyInfoInputs.cache
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.AssemblyInfo.cs
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.csproj.CoreCompileInputs.cache
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.dll
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\refint\예시.dll
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.pdb
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\예시.genruntimeconfig.cache
+C:\Users\kimjo\OneDrive\바탕 화면\새 폴더 (2)\프로그래밍기초주차 개인과제 발제\예시\obj\Debug\net6.0\ref\예시.dll
